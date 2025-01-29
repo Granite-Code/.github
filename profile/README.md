@@ -1,5 +1,5 @@
 Granite.Code is a project by Red Hat and IBM to create an open-source
-AI code assistant using the [IBM Granite model family.](https://www.ibm.com/granite),
+AI code assistant using the [IBM Granite model family](https://www.ibm.com/granite),
 running locally on your system.
 
 Granite.Code is built on top [Continue](https://github.com/continuedev/continue),
